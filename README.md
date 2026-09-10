@@ -863,8 +863,4 @@ rewriting the existing pipeline:
 
 ## License & contribution
 
-No license file is currently declared in this repository. 
-
-Contributions should preserve deterministic tests, keep the core library
-dependency-light, document new CLI behavior, and add coverage for new repair
-or Time Machine state transitions.
+WalkMan CPP is distributed under the terms defined in `LICENSE`.
